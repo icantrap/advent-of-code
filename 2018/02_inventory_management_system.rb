@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require 'pry-byebug'
-
 data = DATA.readlines(chomp: true).freeze
 
 twos = 0
